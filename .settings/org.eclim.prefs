@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.eclim.java.junit.command=<testcase> test
+org.eclim.java.junit.output_dir=<project>/src/rftg/game/tests
+org.eclim.java.junit.src_dir=<project>/src/rftg/game/tests
